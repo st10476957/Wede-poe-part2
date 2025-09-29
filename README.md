@@ -28,9 +28,15 @@ Added
 - Responsive Design with Grid and Flexbox, ensuring a smooth user experience.
 - A consistent Color Scheme and Typography, tying everything together seamlessly.
 
+Technologies Used
+- HTML5 – Structure and content.  
+- CSS3 – Styling and responsiveness.  
+- Flexbox & Grid – Layout management.  
+- VS Code – Development environment.
+
 Screen shot of website at diffrent sizes
 internet:
-![image alt]("C:\Users\kalde\OneDrive\Desktop\WEDE\inter.png")
+![image alt]()
 
 IPAD:
 ![image alt]()
@@ -38,8 +44,3 @@ IPAD:
 Phone:
 ![image alt]()
 
-Technologies Used
-- HTML5 – Structure and content.  
-- CSS3 – Styling and responsiveness.  
-- Flexbox & Grid – Layout management.  
-- VS Code – Development environment.  

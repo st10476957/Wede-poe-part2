@@ -28,6 +28,16 @@ Added
 - Responsive Design with Grid and Flexbox, ensuring a smooth user experience.
 - A consistent Color Scheme and Typography, tying everything together seamlessly.
 
+Screen shot of website at diffrent sizes
+internet:
+![image alt]("C:\Users\kalde\OneDrive\Desktop\WEDE\inter.png")
+
+IPAD:
+![image alt]()
+
+Phone:
+![image alt]()
+
 Technologies Used
 - HTML5 – Structure and content.  
 - CSS3 – Styling and responsiveness.  

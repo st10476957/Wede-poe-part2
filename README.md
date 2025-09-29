@@ -39,7 +39,7 @@ internet:
 ![image alt](https://github.com/st10476957/Wede-poe-part2/blob/main/inter.png)
 
 IPAD:
-![image alt]()
+![image alt](https://github.com/st10476957/Wede-poe-part2/blob/main/ipad.png)
 
 Phone:
 ![image alt]()
